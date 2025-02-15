@@ -54,9 +54,8 @@ body {
 }
 
 .message {
-  margin-bottom:5px;
-  padding:8px;
+  margin-bottom: 5px;
+  padding: 8px;
   border-bottom: #a1a1a1 2px solid ;
-  
   border-radius: 5px;
 }
