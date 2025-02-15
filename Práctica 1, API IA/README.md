@@ -189,7 +189,7 @@ userInput.addEventListener("keypress", (e) => {
 
 # Notas Importantes
 
-- Modelo de Hugging Face: En este ejemplo, usamos el modelo DialoGPT-medium de Microsoft, que es un modelo de conversación entrenado para mantener diálogos. Puedes cambiar el modelo en la URL de la API por otro modelo disponible en Hugging Face, como gpt2 o bert .
+- Modelo de Hugging Face: En este ejemplo, usamos el modelo Phi-3.5-mini-instruct de Microsoft, que es un modelo de conversación entrenado para mantener diálogos. Puedes cambiar el modelo en la URL de la API por otro modelo disponible en Hugging Face, como gpt2 o bert .
 
 Por ejemplo, si quieres usar otro modelo, cambia la URL:
 
