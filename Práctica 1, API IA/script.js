@@ -1,7 +1,7 @@
 // URL de la API de Hugging Face
 const API_URL = "https://api-inference.huggingface.co/models/microsoft/Phi-3.5-mini-instruct";
 // Tu clave API de Hugging Face (opcional, pero recomendable para evitar límites)
-const API_KEY = "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"; // Reemplaza con tu clave
+const API_KEY = "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"; // Clave 
 
 // Elementos del DOM
 const chatBox = document.getElementById("chat-box");
