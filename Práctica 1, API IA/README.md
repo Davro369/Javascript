@@ -185,7 +185,7 @@ userInput.addEventListener("keypress", (e) => {
 
 - Guarda todos los archivos en la carpeta del proyecto.
 - Abre el archivo index.html en tu navegador.
-- Ingresa una pregunta en el campo de texto y haz clic en "Enviar". El chatbot generará una respuesta usando el modelo DialoGPT de Hugging Face.
+- Ingresa una pregunta en el campo de texto y haz clic en "Enviar". El chatbot generará una respuesta usando el modelo Phi-3.5-mini-instruct de Hugging Face.
 
 # Notas Importantes
 
